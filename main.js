@@ -1,5 +1,7 @@
 import moment from 'moment'
 
+//can only log out using terminal
+
 // var moment = require("moment"); // require
 console.log(moment().format())
 
