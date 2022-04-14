@@ -1,13 +1,14 @@
-import moment from "moment";
+import moment from 'moment'
 
-//can only log out using terminal
+// can only log out using terminal
 
 // var moment = require("moment"); // require
-console.log(moment().format());
+console.log(moment().format())
 
-function po(){
-return 1
+function testHusky () {
+  return 1
 }
+console.log(testHusky)
 
 // const a = moment().format("MMMM Do YYYY, h:mm:ss a"); // April 13th 2022, 1:02:30 pm
 // const b = moment().format("dddd"); // Wednesday
